@@ -1,8 +1,6 @@
-# Assignment 1
+# Assignment 1 - Create two classes: Painting and TestPainting
 
-Create two classes: Painting and TestPainting
-
-## Within Class Painting:
+### Within Class Painting:
 - Initiate 4 private variables:
   - artistName (type string)
   - name (type string)
@@ -23,7 +21,7 @@ Create two classes: Painting and TestPainting
 
 HINT: Instead of manually inputting our current year, obtain it through the library: java.util.Calendar
 
-## Within Class TestPainting (Main Function for testing Class Painting)
+### Within Class TestPainting (Main Function for testing Class Painting)
  
  - Import java.util.Scanner to allow user input
  
