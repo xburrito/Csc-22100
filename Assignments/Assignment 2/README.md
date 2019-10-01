@@ -20,8 +20,10 @@ Begin the race by printing a proper message (e.g. On Your Mark, Get Set, Go)
 
 ### Hints:
 
-- In order to simulate the percentages in Figure 1, generate a random integer 𝒳 such that 1 􏰄 𝒳 􏰄 10. A 50% is achieved if1􏰄𝒳􏰄5,a20%isachievedif6 􏰄 𝒳 􏰄 7...
+- In order to simulate the percentages in Figure 1, generate a random integer 𝒳 such that... 
+
 - Each tick of the clock is a loop iteration. For example, 100 ticks on the clock are translated to 100 iterations. At the end of each iteration (tick) display the positions using printf as shown in Figure 2.
+
 - Think of the 100 square runway as shown below. A right move means, advance forward, a left move means backwards. Note that you do not need an array to represent the course.
 
 ## [REST OF DETAILS IN Prompt.pdf]
