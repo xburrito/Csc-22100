@@ -2,14 +2,19 @@
 // Csc 22100 - F
 
 // Libraries Imported
-import java.util.Random;
+import java.security.SecureRandom;
 import java.util.Arrays;
 
 class Main {
     public static int R1;
     public static int R2;
     public static char race[] = new char[100];
-    public static final Random rand = new Random();
+    public static final SecureRandom rand = new SecureRandom();
+
+    // Overloading the toString() Method
+    public String toString(){
+      return "Race simulation class";
+    }
 
     // Track Method
     public static void track(){
@@ -148,8 +153,8 @@ class Main {
 
         // Race Track Separator
         for (int i = 1; i < x.length; ++i){ 
-            char c = '-';
-            System.out.printf("%s", c);
+            char line = '-';
+            System.out.printf("%s", line);
         }
 
         // Timer incrementation for every loop
@@ -159,12 +164,19 @@ class Main {
    System.out.println();
 
   // Cases at the end of the race
-    if(R1 >= 100){
-      System.out.println("Runner 1 Wins.");
+    if(R1 == R2){
+      System.out.printf("%n%s%n","It's a tie!");
     }
-    if(R2 >= 100){
-      System.out.println("Runner 2 Wins.");
+    else if(R1 >= 100){
+      System.out.printf("%n%s%n","Runner 1 Wins.");
     }
-      System.out.printf("Time Elapsed = " + timer + " seconds");
+    else if(R2 >= 100){
+      System.out.printf("%n%s%n","Runner 2 Wins.");
+    }
+      System.out.printf("%s%d%s%n%n", "Time Elapsed = ", timer," seconds");
+
+    // Test calling the overloaded toString() method created earlier
+    Main calling = new Main();
+    System.out.printf("%s%s", "Calling the overloaded 'toString()' method: ", calling.toString());
   } 
 }
