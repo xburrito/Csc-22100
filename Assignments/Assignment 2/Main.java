@@ -173,7 +173,7 @@ class Main {
     else if(R2 >= 100){
       System.out.printf("%n%s%n","Runner 2 Wins.");
     }
-      System.out.printf("%s%d%s%n%n", "Time Elapsed = ", timer," seconds");
+      System.out.printf("%s%d%s%n%n", "Time Elapsed = ", timer-1," seconds");
 
     // Test calling the overloaded toString() method created earlier
     Main calling = new Main();
