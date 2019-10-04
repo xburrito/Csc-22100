@@ -19,31 +19,33 @@ class Main {
     // Track Method
     public static void track(){
 
-      Arrays.fill(race, ' '); //Fills array with 100 characters
+      //Fills array with 100 characters
+      Arrays.fill(race, ' '); 
       String equal = "B "; 
 
+      // This will check if R1 and R2 are equal to each other.
+      if(R1 != R2){
+        
+        // If not, they will be set to zero at initialization.
+        if(R1 <= 0){
+          R1 = 0;
+        }
+        if(R2 <= 0){
+          R2 = 0;
+        }
+        
+        // Racers as indicated R1 = 1 & R2 = 2
+            race[R1] = '1';
+            race[R2] = '2';
+      }
+
       // If R1 and R2, inserts B for beginning of race
-      if(R1 == R2){
+      else if(R1 == R2){
           for(int i = R1; i < equal.length(); i++){
              race[i] = equal.charAt(i - R1);
           }
       }
-
-      else{
-        // This will check if R1 and R2 are at zero.
-        // If not, they will be set to zero at initialization.
-        if(R1 <= 0){
-          R1 = 0;
-            }
-            if(R2 <= 0){
-                R2 = 0;
-            }
-
-            // Racers as indicated R1 = 1 & R2 = 2
-                race[R1] = '1';
-                race[R2] = '2';
-        }
-
+      
         // Prints Racer's Position throughout the race
         for(char x: race){
             System.out.print(x);
@@ -158,7 +160,7 @@ class Main {
         }
 
         // Timer incrementation for every loop
-        ++timer;
+        timer++;
 
     } // End of While-loop
    System.out.println();
