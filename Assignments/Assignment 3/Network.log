@@ -1,0 +1,501 @@
+#,Time Stamp,Source,Destination,Protocol,Length,Description
+,Oct 13 2019 05:09:42,192.168.5.138,192.229.189.15,-,491,communication with play.google.com
+2,Nov 08 2019 01:58:02,192.168.5.189,192.229.189.15,TCP,191,TCP communication with etsy.com
+3,Nov 24 2018 22:06:53,192.168.5.220,192.168.5.152,TCP,450,TCP communication with twitter.com
+,Mar 01 2019 07:46:18,192.168.5.102,.55.163.53,TCP,174,TCP communication with microsoft.com
+5,Apr 10 2019 13:36:46,192.168.5.178,13.77.161.179,TCP,526,TCP communication with Google.com
+6,Oct 11 2019 12:14:45,192.168.5.134,17.172.224.47,TCP,0,TCP communication with 192.168.5.148
+7,Jan 14 2019 08:47:45,192.168.5.233,135.195.175,TCP,0,TCP communication with netflix.com
+,Oct 12 2019 10:29:46,192.168.5.140,g208.82.237.226,TCP,1049,TCP communication with 192.168.5.148
+9,Sep 13 2018 22:50:35,192.168.5.151,101.193.67,TCP,197,TCP communication with amazon.com
+10,Aug 21 2019 14:03:08,192.168.5.222,172.217.10.46,TCP,524,TCP communication with youtube.com
+11,Feb 03 2018 01:02:52,192.168.5.216,192.168.1.1,-,1269,communication with ebay.com
+12,Mar 09 2018 23:40:30,192.168.5.242,31.13.66.35,-,0,communication with linkedin.com
+13,Oct 01 2019 04:43:08,192.168.5.210,172.217.11.14,TCP,0,TCP communication with espn.com
+14,Oct 20 2018 16:48:35,192.168.5.121,31.13.66.35,TCP,749,TCP communication with walmart.com
+15,Jan 06 2019 01:08:28,192.168.5.244,161.170.232.170,TCP,0,TCP communication with ebay.com
+16,Mar 15 2019 19:11:12,192.168.5.237,192.168.5.244,TCP,243,TCP communication with amazon.com
+17,Jul 05 2019 07:53:05,192.168.5.214,31.13.66.35,TCP,1,TCP communication with craigslist.org
+18,Feb 11 2019 18:27:30,192.168.5.114,161.170.232.170,TCP,0,TCP communication with pinterest.com
+19,Jul 16 2018 00:57:45,192.168.5.203,a.org208.80.154.224,-,424,communication with reddit.com
+,Aug 06 2018 19:16:00,192.168.5.111,104.244.42.193,TCP,502,TCP communication with youtube.com
+21,Jan 19 2019 11:46:28,192.168.5.230,31.13.66.4,UDP,1323,UDP communication with merriam-webster.com
+22,Mar 08 2019 19:58:44,192.168.5.135,192.168.5.197,TCP,0,TCP communication with webmd.com
+23,Oct 16 2018 18:16:22,192.168.5.159,33.73.70,TCP,0,TCP communication with ebay.com
+24,Jun 26 2018 23:53:33,192.168.5.100,135.195.175,TCP,1277,TCP communication with microsoft.com
+,Aug 09 2018 12:13:19,192.168.5.195,51.101.66.49,TCP,1037,TCP communication with youtube.com
+26,Jul 18 2019 01:43:11,192.168.5.114,104.244.42.193,-,324,communication with reddit.com
+27,Jun 27 2019 18:02:50,192.168.5.188,31.13.66.4,TCP,796,TCP communication with 192.168.5.148
+28,Jun 02 2018 03:24:12,192.168.5.120,34.194.103.209,UDP,288,UDP communication with webmd.com
+29,Feb 01 2018 20:54:18,192.168.5.100,192.168.5.177,TCP,1444,TCP communication with 192.168.5.148
+30,Jan 03 2018 15:20:11,192.168.5.113,192.229.189.15,-,1288,communication with google.com
+31,Mar 26 2019 20:58:02,192.168.5.140,35.201.95.83,-,1199,communication with merriam-webster.com
+32,Aug 21 2019 15:03:59,192.168.5.239,.101.1.224,TCP,114,TCP communication with 192.168.5.244
+33,Feb 18 2019 01:02:53,192.168.5.203,51.101.130.187,UDP,1286,UDP communication with instagram.com
+34,Feb 13 2018 01:14:05,192.168.5.249,13.77.161.179,TCP,1277,TCP communication with craigslist.org
+35,Nov 28 2018 01:02:23,192.168.5.123,31.13.66.35,-,399,communication with espn.com
+,Dec 12 2019 09:55:34,192.168.5.137,.101.1.224,TCP,1106,TCP communication with 192.168.1.1
+37,Oct 10 2019 23:58:54,192.168.5.220,.101.1.224,UDP,171,UDP communication with tripadvisor.com
+38,Apr 15 2019 15:58:59,192.168.5.167,a.org208.80.154.224,-,575,communication with nytimes.com
+39,Aug 24 2019 18:48:55,192.168.5.228,4.16.66.82,-,596,communication with tripadvisor.com
+40,Jun 05 2019 10:38:48,192.168.5.144,104.244.42.193,UDP,1445,UDP communication with forbes.com
+41,Feb 13 2018 20:11:20,192.168.5.153,05.251.242.103,-,505,communication with forbes.com
+42,Mar 27 2019 14:19:57,192.168.5.208,72.217.10.78,TCP,0,TCP communication with reddit.com
+43,Apr 04 2019 18:51:21,192.168.5.140,.101.1.224,-,55,communication with homedepot.com
+44,Dec 04 2018 15:59:30,192.168.5.114,101.193.67,TCP,1126,TCP communication with tripadvisor.com
+45,Jul 02 2019 11:26:40,192.168.5.250,er.com13.33.73.38,TCP,669,TCP communication with pinterest.com
+46,May 18 2018 17:50:02,192.168.5.178,er.com13.33.73.38,TCP,358,TCP communication with netflix.com
+47,Aug 07 2019 03:59:00,192.168.5.227,192.168.5.168,TCP,478,TCP communication with 192.168.5.148
+48,Oct 03 2019 07:42:11,192.168.5.230,05.251.242.103,TCP,355,TCP communication with dyna.wikimedia.org
+49,Nov 28 2019 17:39:56,192.168.5.149,104.244.42.193,TCP,853,TCP communication with netflix.com
+,Jun 15 2019 13:18:45,192.168.5.127,192.168.1.1,TCP,683,TCP communication with 192.168.5.168
+51,Nov 26 2018 05:02:41,192.168.5.185,172.217.10.46,UDP,1273,UDP communication with forbes.com
+52,Feb 16 2018 14:07:52,192.168.5.238,.101.1.224,TCP,388,TCP communication with 192.168.5.168
+53,Oct 02 2019 00:30:00,192.168.5.184,161.170.232.170,TCP,900,TCP communication with Google.com
+54,Jun 19 2019 21:04:47,192.168.5.129,104.244.42.193,TCP,191,TCP communication with apple.com
+55,Dec 21 2019 22:39:06,192.168.5.249,a.org208.80.154.224,-,0,communication with 192.168.5.177
+,Nov 09 2019 10:45:26,192.168.5.213,172.217.11.14,TCP,0,TCP communication with imdb.com
+57,Nov 14 2019 07:18:03,192.168.5.119,192.229.189.15,UDP,0,UDP communication with cnn.com
+58,May 26 2019 12:43:11,192.168.5.220,er.com13.33.73.38,UDP,836,UDP communication with apple.com
+59,Apr 08 2019 03:05:17,192.168.5.111,172.217.11.14,-,972,communication with espn.com
+60,May 27 2019 14:05:31,192.168.5.174,192.168.5.197,-,932,communication with linkedin.com
+61,Nov 13 2019 17:03:35,192.168.5.157,192.168.5.177,-,904,communication with linkedin.com
+62,May 04 2019 10:38:36,192.168.5.214,34.194.103.209,-,0,communication with pinterest.com
+63,Oct 13 2019 04:37:39,192.168.5.220,192.168.5.148,TCP,300,TCP communication with craigslist.org
+64,Apr 10 2018 21:32:26,192.168.5.131,161.170.232.170,UDP,835,UDP communication with homedepot.com
+65,May 17 2019 03:06:06,192.168.5.151,161.170.232.170,TCP,385,TCP communication with nytimes.com
+66,Jan 04 2018 10:58:41,192.168.5.125,192.168.5.197,TCP,1329,TCP communication with quora.com
+67,Nov 18 2019 20:06:27,192.168.5.141,.55.163.53,UDP,1369,UDP communication with 192.168.5.148
+68,Feb 18 2019 20:00:38,192.168.5.130,34.194.103.209,TCP,0,TCP communication with dyna.wikimedia.org
+69,Aug 13 2019 16:28:32,192.168.5.126,13.77.161.179,UDP,11,UDP communication with homedepot.com
+,Jul 04 2019 00:45:36,192.168.5.163,172.217.10.238,TCP,1428,TCP communication with pinterest.com
+71,Sep 07 2019 07:01:30,192.168.5.187,192.168.5.197,TCP,1393,TCP communication with instagram.com
+72,Mar 28 2019 02:49:40,192.168.5.132,er.com13.33.73.38,TCP,1277,TCP communication with 192.168.5.120
+73,Nov 14 2018 15:06:29,192.168.5.200,172.217.10.46,TCP,1370,TCP communication with tripadvisor.com
+74,Jan 20 2019 13:03:29,192.168.5.148,72.217.10.78,TCP,752,TCP communication with 192.168.5.152
+75,Sep 18 2019 18:53:40,192.168.5.172,31.13.66.4,TCP,876,TCP communication with 192.168.5.148
+76,Mar 08 2019 15:17:59,192.168.5.189,g208.82.237.226,UDP,374,UDP communication with nytimes.com
+77,Jul 16 2019 10:10:11,192.168.5.205,4.16.66.82,TCP,974,TCP communication with webmd.com
+78,Oct 19 2019 11:36:31,192.168.5.240,104.244.42.193,UDP,362,UDP communication with espn.com
+79,Dec 23 2019 04:53:33,192.168.5.226,05.251.242.103,-,293,communication with dyna.wikimedia.org
+80,Oct 18 2019 07:48:29,192.168.5.244,05.251.242.103,TCP,1027,TCP communication with reddit.com
+81,Oct 13 2019 04:41:38,192.168.5.199,.101.1.224,TCP,885,TCP communication with forbes.com
+82,Jan 22 2018 09:02:00,192.168.5.205,35.201.95.83,TCP,46,TCP communication with dyna.wikimedia.org
+83,Jul 21 2018 08:17:17,192.168.5.164,104.244.42.193,TCP,464,TCP communication with imdb.com
+84,Dec 07 2018 13:36:32,192.168.5.125,34.194.103.209,-,1225,communication with homedepot.com
+85,Jan 28 2019 00:37:20,192.168.5.150,.17.53.43,TCP,1200,TCP communication with 192.168.5.244
+86,Nov 14 2019 07:14:39,192.168.5.183,31.13.66.35,UDP,0,UDP communication with play.google.com
+87,Aug 06 2018 14:53:15,192.168.5.167,192.168.1.1,TCP,1009,TCP communication with dyna.wikimedia.org
+88,Jul 13 2018 19:08:14,192.168.5.101,101.193.67,TCP,640,TCP communication with 192.168.5.177
+89,Apr 01 2018 10:10:18,192.168.5.231,35.201.95.83,-,0,communication with craigslist.org
+90,Oct 04 2018 03:16:31,192.168.5.213,.55.163.53,TCP,0,TCP communication with instagram.com
+91,Nov 23 2019 19:22:30,192.168.5.100,192.229.189.15,TCP,1373,TCP communication with merriam-webster.com
+92,Nov 17 2018 17:33:33,192.168.5.159,104.244.42.193,TCP,1165,TCP communication with netflix.com
+93,Feb 14 2018 19:02:49,192.168.5.193,94.228.167,-,262,communication with indeed.com
+94,Jul 04 2018 07:57:48,192.168.5.235,108.174.10.10,TCP,389,TCP communication with 192.168.5.244
+95,Oct 05 2019 23:46:43,192.168.5.190,192.168.5.148,TCP,258,TCP communication with 192.168.5.152
+96,Aug 25 2019 17:56:13,192.168.5.111,151.101.1.164,TCP,818,TCP communication with 192.168.5.244
+97,Aug 17 2019 06:46:37,192.168.5.140,108.174.10.10,UDP,358,UDP communication with 192.168.5.244
+98,Mar 05 2018 15:46:05,192.168.5.146,192.229.189.15,-,675,communication with 192.168.5.168
+99,Feb 07 2018 11:36:38,192.168.5.106,.55.163.53,UDP,364,UDP communication with Google.com
+100,May 08 2018 01:09:52,192.168.5.224,135.195.175,TCP,168,TCP communication with espn.com
+101,Mar 26 2019 21:03:40,192.168.5.101,05.251.242.103,TCP,1403,TCP communication with facebook.com
+102,Nov 21 2019 06:12:59,192.168.5.119,192.168.1.1,TCP,773,TCP communication with amazon.com
+103,Feb 23 2019 07:15:46,192.168.5.226,51.101.65.140,UDP,444,UDP communication with amazon.com
+104,Mar 18 2018 09:33:37,192.168.5.168,31.13.66.35,-,429,communication with ebay.com
+105,Jun 01 2018 02:45:12,192.168.5.146,72.217.10.78,TCP,1082,TCP communication with pinterest.com
+106,Feb 14 2019 14:47:26,192.168.5.110,192.168.5.152,TCP,1212,TCP communication with nytimes.com
+107,Jun 20 2019 20:30:34,192.168.5.242,172.217.10.238,UDP,658,UDP communication with Google.com
+108,Jul 13 2019 07:03:41,192.168.5.101,94.228.167,TCP,312,TCP communication with etsy.com
+109,May 23 2019 01:21:53,192.168.5.219,192.168.5.148,TCP,57,TCP communication with 192.168.5.244
+110,Jan 03 2019 01:32:00,192.168.5.127,151.101.128.84,TCP,0,TCP communication with 192.168.5.120
+111,Nov 23 2019 22:46:10,192.168.5.161,101.193.67,TCP,632,TCP communication with webmd.com
+112,Jul 13 2019 23:39:23,192.168.5.198,er.com13.33.73.38,TCP,1156,TCP communication with google.com
+113,Feb 08 2018 07:07:15,192.168.5.160,.55.163.53,TCP,8,TCP communication with twitter.com
+114,Mar 10 2019 19:19:17,192.168.5.205,161.170.232.170,TCP,845,TCP communication with craigslist.org
+115,May 06 2019 17:30:10,192.168.5.217,4.16.66.82,TCP,0,TCP communication with instagram.com
+116,Feb 15 2018 18:40:53,192.168.5.151,151.101.128.84,TCP,250,TCP communication with nytimes.com
+117,Dec 21 2018 09:38:05,192.168.5.210,a.org208.80.154.224,TCP,1176,TCP communication with craigslist.org
+118,May 08 2019 08:43:08,192.168.5.166,51.101.130.187,TCP,0,TCP communication with 192.168.5.168
+119,Nov 06 2019 14:15:56,192.168.5.205,34.194.103.209,UDP,1192,UDP communication with 192.168.5.148
+120,Jan 14 2019 14:29:51,192.168.5.184,192.168.5.152,TCP,1410,TCP communication with ebay.com
+121,Dec 25 2019 17:57:59,192.168.5.212,192.168.5.177,TCP,535,TCP communication with indeed.com
+122,Jun 19 2019 17:29:47,192.168.5.100,51.101.66.49,TCP,386,TCP communication with instagram.com
+123,Sep 21 2018 15:54:51,192.168.5.112,52.6.240.48,TCP,981,TCP communication with amazon.com
+124,Oct 22 2019 13:04:26,192.168.5.207,192.168.5.152,TCP,756,TCP communication with instagram.com
+125,Apr 27 2018 07:55:38,192.168.5.198,192.168.5.244,UDP,255,UDP communication with ebay.com
+126,Nov 12 2018 08:25:11,192.168.5.246,72.217.10.78,TCP,1181,TCP communication with facebook.org
+127,May 08 2018 15:51:59,192.168.5.160,34.194.103.209,TCP,1095,TCP communication with reddit.com
+128,Oct 21 2018 13:05:29,192.168.5.107,101.193.67,TCP,545,TCP communication with play.google.com
+129,Jan 23 2018 04:25:55,192.168.5.247,192.168.5.120,TCP,265,TCP communication with Google.com
+130,Jul 03 2018 15:46:04,192.168.5.139,13.77.161.179,TCP,949,TCP communication with reddit.com
+,Dec 05 2019 13:34:43,192.168.5.131,161.170.232.170,TCP,281,TCP communication with tripadvisor.com
+132,Jan 24 2019 02:49:54,192.168.5.152,05.251.242.103,TCP,444,TCP communication with quora.com
+133,Aug 04 2019 08:23:29,192.168.5.166,172.217.10.238,TCP,764,TCP communication with 192.168.5.197
+134,May 25 2018 01:25:46,192.168.5.116,104.244.42.193,TCP,1299,TCP communication with twitter.com
+135,Nov 06 2019 01:13:29,192.168.5.144,51.101.66.49,UDP,1080,UDP communication with target.com
+,Jul 04 2019 00:39:32,192.168.5.130,192.168.5.120,TCP,1207,TCP communication with play.google.com
+137,Jan 16 2019 13:44:03,192.168.5.213,151.101.1.164,TCP,1242,TCP communication with microsoft.com
+138,Nov 04 2019 13:25:52,192.168.5.221,192.168.5.177,TCP,404,TCP communication with 192.168.1.1
+139,Jun 09 2018 15:18:22,192.168.5.155,34.194.103.209,UDP,633,UDP communication with play.google.com
+140,Dec 24 2019 13:56:32,192.168.5.121,a.org208.80.154.224,UDP,1180,UDP communication with apple.com
+141,Mar 19 2019 13:03:18,192.168.5.148,192.168.5.197,-,742,communication with instagram.com
+142,May 01 2018 13:04:10,192.168.5.202,172.217.10.238,TCP,1135,TCP communication with reddit.com
+143,Nov 22 2018 14:47:01,192.168.5.143,72.217.10.78,UDP,0,UDP communication with craigslist.org
+144,Mar 28 2018 00:50:42,192.168.5.123,101.193.67,TCP,1132,TCP communication with homedepot.com
+145,Jan 22 2019 16:09:18,192.168.5.196,34.194.103.209,UDP,1149,UDP communication with linkedin.com
+146,Sep 08 2019 07:27:17,192.168.5.247,51.101.65.140,TCP,592,TCP communication with homedepot.com
+147,Mar 16 2018 19:22:45,192.168.5.242,35.201.95.83,TCP,1443,TCP communication with youtube.com
+148,Feb 14 2019 04:12:40,192.168.5.234,34.194.103.209,TCP,1054,TCP communication with dyna.wikimedia.org
+149,Mar 12 2019 05:28:04,192.168.5.192,192.229.189.15,TCP,1293,TCP communication with 192.168.5.177
+150,Oct 24 2019 05:07:33,192.168.5.106,4.16.66.82,TCP,987,TCP communication with imdb.com
+151,Jun 19 2018 18:51:46,192.168.5.157,161.170.232.170,TCP,4,TCP communication with target.com
+152,Jul 13 2019 10:26:35,192.168.5.135,192.168.5.120,-,853,communication with 192.168.5.177
+153,Jul 24 2019 17:08:35,192.168.5.232,192.229.189.15,UDP,1344,UDP communication with merriam-webster.com
+154,Apr 10 2018 16:40:30,192.168.5.156,192.168.5.120,-,86,communication with merriam-webster.com
+155,Jun 12 2019 15:08:20,192.168.5.119,192.168.5.177,TCP,767,TCP communication with walmart.com
+156,Apr 24 2019 17:46:02,192.168.5.199,172.217.11.14,-,185,communication with 192.168.5.120
+157,Aug 24 2019 00:17:31,192.168.5.247,4.16.66.82,-,850,communication with homedepot.com
+158,Jun 20 2019 06:51:30,192.168.5.222,33.73.70,UDP,612,UDP communication with homedepot.com
+159,Oct 21 2018 08:31:11,192.168.5.153,192.168.1.1,TCP,1003,TCP communication with 192.168.5.148
+160,Apr 03 2018 01:08:45,192.168.5.185,108.174.10.10,TCP,1275,TCP communication with twitter.com
+,Jan 17 2019 20:15:34,192.168.5.173,.101.1.224,TCP,640,TCP communication with google.com
+,Jun 06 2019 04:15:59,192.168.5.248,172.217.11.14,-,17,communication with youtube.com
+163,Aug 13 2018 15:14:19,192.168.5.138,72.217.10.78,UDP,355,UDP communication with homedepot.com
+164,Apr 20 2018 09:05:44,192.168.5.164,34.194.103.209,-,1058,communication with dyna.wikimedia.org
+165,Sep 02 2019 23:46:36,192.168.5.126,192.168.5.197,TCP,1343,TCP communication with dyna.wikimedia.org
+166,Jun 25 2019 00:04:19,192.168.5.210,172.217.11.14,TCP,435,TCP communication with ebay.com
+167,May 14 2018 22:12:45,192.168.5.172,72.217.10.78,-,819,communication with amazon.com
+168,Mar 13 2019 21:38:06,192.168.5.231,192.168.5.168,TCP,514,TCP communication with linkedin.com
+169,Jan 04 2018 21:05:15,192.168.5.223,192.229.189.15,-,1063,communication with play.google.com
+170,May 18 2018 18:20:11,192.168.5.228,192.168.5.148,TCP,423,TCP communication with imdb.com
+171,Dec 07 2019 08:07:58,192.168.5.163,192.168.5.168,TCP,556,TCP communication with espn.com
+172,Dec 18 2019 19:02:24,192.168.5.241,192.168.5.148,-,950,communication with craigslist.org
+173,Sep 06 2019 13:45:41,192.168.5.249,151.101.128.84,-,965,communication with quora.com
+174,Nov 15 2018 18:41:06,192.168.5.154,33.73.70,TCP,1244,TCP communication with ebay.com
+175,Dec 17 2018 23:07:06,192.168.5.200,35.201.95.83,TCP,123,TCP communication with facebook.com
+176,Sep 06 2018 02:19:57,192.168.5.148,192.168.5.244,TCP,231,TCP communication with 192.168.1.1
+177,Dec 02 2018 07:24:32,192.168.5.245,192.168.5.120,TCP,49,TCP communication with play.google.com
+178,Apr 07 2018 00:42:13,192.168.5.248,192.229.189.15,-,501,communication with quora.com
+179,Jul 05 2018 08:52:06,192.168.5.123,192.168.5.152,UDP,954,UDP communication with microsoft.com
+180,Aug 09 2019 11:04:34,192.168.5.109,101.193.67,-,144,communication with youtube.com
+181,Jun 01 2019 17:09:07,192.168.5.183,51.101.66.49,TCP,638,TCP communication with quora.com
+182,Jan 20 2019 02:35:44,192.168.5.111,161.170.232.170,TCP,715,TCP communication with craigslist.org
+183,Dec 17 2018 21:38:12,192.168.5.254,172.217.10.46,-,1255,communication with merriam-webster.com
+184,Oct 25 2019 09:04:56,192.168.5.143,192.168.5.244,TCP,1196,TCP communication with 192.168.5.152
+185,Sep 08 2019 10:14:58,192.168.5.191,192.168.5.148,TCP,563,TCP communication with espn.com
+186,Apr 06 2019 10:04:18,192.168.5.103,172.217.10.46,TCP,0,TCP communication with 192.168.5.152
+187,Feb 07 2019 22:32:21,192.168.5.123,31.13.66.4,TCP,835,TCP communication with 192.168.5.152
+188,Feb 20 2018 08:02:15,192.168.5.103,161.170.232.170,TCP,996,TCP communication with walmart.com
+189,Jun 17 2018 06:25:45,192.168.5.119,151.101.1.164,TCP,1430,TCP communication with twitter.com
+190,Dec 28 2018 10:54:44,192.168.5.220,192.168.5.177,UDP,71,UDP communication with nytimes.com
+191,May 27 2019 10:14:07,192.168.5.161,a.org208.80.154.224,UDP,0,UDP communication with indeed.com
+192,Sep 07 2019 01:21:23,192.168.5.167,.55.163.53,-,1127,communication with amazon.com
+193,Dec 19 2018 04:04:45,192.168.5.239,192.168.5.168,TCP,937,TCP communication with netflix.com
+194,Jun 20 2019 14:05:25,192.168.5.127,a.org208.80.154.224,UDP,829,UDP communication with webmd.com
+195,Jun 25 2019 15:46:31,192.168.5.218,17.172.224.47,TCP,1441,TCP communication with facebook.com
+196,Jun 23 2019 22:26:34,192.168.5.143,34.194.103.209,TCP,451,TCP communication with apple.com
+197,Dec 28 2018 03:09:27,192.168.5.247,101.193.67,TCP,917,TCP communication with reddit.com
+198,Dec 21 2019 23:13:05,192.168.5.224,.17.53.43,UDP,1435,UDP communication with play.google.com
+199,Feb 22 2018 03:04:20,192.168.5.103,192.229.189.15,TCP,708,TCP communication with facebook.com
+200,Aug 12 2018 09:54:01,192.168.5.198,72.217.10.78,TCP,838,TCP communication with indeed.com
+201,Jul 04 2019 10:18:44,192.168.5.197,13.77.161.179,TCP,1310,TCP communication with craigslist.org
+202,Dec 28 2019 22:02:58,192.168.5.179,31.13.66.4,TCP,243,TCP communication with 192.168.1.1
+203,Aug 28 2018 04:32:08,192.168.5.184,94.228.167,UDP,91,UDP communication with craigslist.org
+204,May 19 2018 23:07:17,192.168.5.199,.101.1.224,TCP,1190,TCP communication with ebay.com
+205,Apr 02 2019 09:32:39,192.168.5.117,94.228.167,UDP,1447,UDP communication with 192.168.5.197
+,Nov 23 2019 22:08:10,192.168.5.225,51.101.130.187,TCP,1409,TCP communication with youtube.com
+207,Nov 21 2019 10:32:55,192.168.5.193,192.168.5.244,TCP,473,TCP communication with microsoft.com
+208,Jul 18 2019 08:40:07,192.168.5.188,.17.53.43,TCP,0,TCP communication with 192.168.1.1
+209,Jul 08 2019 20:19:34,192.168.5.202,108.174.10.10,UDP,399,UDP communication with target.com
+210,May 22 2019 08:19:40,192.168.5.207,05.251.242.103,TCP,1301,TCP communication with etsy.com
+211,Oct 26 2019 03:55:31,192.168.5.205,104.244.42.193,-,884,communication with 192.168.5.244
+212,Oct 09 2018 07:07:22,192.168.5.198,51.101.66.49,TCP,1416,TCP communication with google.com
+213,May 19 2019 05:40:33,192.168.5.116,72.217.10.78,-,424,communication with 192.168.5.244
+,Apr 18 2019 06:20:18,192.168.5.240,4.16.66.82,TCP,1419,TCP communication with 192.168.5.120
+215,Feb 03 2019 18:50:12,192.168.5.138,31.13.66.4,TCP,370,TCP communication with cnn.com
+216,Sep 22 2018 05:38:05,192.168.5.154,51.101.130.187,TCP,1151,TCP communication with netflix.com
+217,Apr 11 2018 16:41:45,192.168.5.111,51.101.66.49,TCP,630,TCP communication with craigslist.org
+218,Oct 05 2019 04:31:12,192.168.5.115,192.168.5.244,UDP,734,UDP communication with quora.com
+219,Aug 12 2019 02:01:41,192.168.5.148,.55.163.53,TCP,1438,TCP communication with linkedin.com
+220,Sep 07 2019 00:26:52,192.168.5.248,192.168.5.177,UDP,0,UDP communication with youtube.com
+221,Oct 26 2019 20:37:05,192.168.5.239,72.217.10.78,TCP,1068,TCP communication with imdb.com
+222,Jul 10 2018 17:19:05,192.168.5.211,161.170.232.170,TCP,429,TCP communication with apple.com
+223,Apr 05 2019 10:36:07,192.168.5.212,192.168.5.244,UDP,332,UDP communication with reddit.com
+224,May 23 2018 00:41:35,192.168.5.192,52.6.240.48,UDP,1020,UDP communication with tripadvisor.com
+225,Jun 05 2019 05:30:08,192.168.5.120,172.217.10.46,TCP,741,TCP communication with 192.168.5.152
+226,Sep 03 2019 18:51:16,192.168.5.184,108.174.10.10,UDP,0,UDP communication with apple.com
+227,Jun 17 2019 03:06:46,192.168.5.112,a.org208.80.154.224,-,1363,communication with amazon.com
+228,May 17 2019 10:24:51,192.168.5.148,17.172.224.47,TCP,45,TCP communication with etsy.com
+229,Jan 28 2019 15:51:09,192.168.5.218,192.168.1.1,TCP,0,TCP communication with linkedin.com
+230,Nov 03 2019 12:37:23,192.168.5.114,135.195.175,TCP,900,TCP communication with pinterest.com
+231,Sep 09 2019 16:49:36,192.168.5.192,192.168.1.1,UDP,1403,UDP communication with homedepot.com
+232,Jul 23 2019 13:47:26,192.168.5.143,a.org208.80.154.224,TCP,746,TCP communication with target.com
+233,Aug 10 2019 06:55:15,192.168.5.125,172.217.10.46,TCP,351,TCP communication with nytimes.com
+234,Nov 26 2019 01:27:15,192.168.5.186,172.217.10.238,-,208,communication with instagram.com
+235,Jan 04 2019 06:51:56,192.168.5.103,17.172.224.47,UDP,1073,UDP communication with target.com
+236,Nov 04 2019 19:07:42,192.168.5.131,34.194.103.209,TCP,1099,TCP communication with twitter.com
+237,Nov 23 2018 01:30:06,192.168.5.249,151.101.1.164,UDP,1348,UDP communication with imdb.com
+238,Jun 15 2018 03:21:22,192.168.5.189,192.168.5.152,TCP,50,TCP communication with espn.com
+239,Jun 22 2018 04:34:54,192.168.5.165,17.172.224.47,TCP,36,TCP communication with play.google.com
+240,Jul 19 2019 19:35:00,192.168.5.161,72.217.10.78,TCP,390,TCP communication with youtube.com
+241,Nov 19 2019 23:20:36,192.168.5.145,192.168.5.197,TCP,13,TCP communication with imdb.com
+242,Aug 11 2019 14:42:00,192.168.5.128,05.251.242.103,TCP,595,TCP communication with tripadvisor.com
+243,Jul 20 2018 21:24:45,192.168.5.152,.101.1.224,TCP,954,TCP communication with espn.com
+244,Dec 10 2018 18:06:42,192.168.5.208,31.13.66.4,UDP,34,UDP communication with youtube.com
+245,Aug 25 2018 21:00:07,192.168.5.241,51.101.65.140,TCP,177,TCP communication with merriam-webster.com
+246,Apr 09 2019 13:08:29,192.168.5.228,192.168.5.152,TCP,276,TCP communication with 192.168.5.168
+247,Sep 21 2019 04:42:09,192.168.5.114,192.168.5.168,TCP,1256,TCP communication with 192.168.5.152
+248,Jan 21 2019 05:40:13,192.168.5.235,51.101.130.187,UDP,441,UDP communication with dyna.wikimedia.org
+249,Oct 23 2019 02:59:54,192.168.5.249,192.168.5.168,UDP,504,UDP communication with facebook.org
+250,Apr 02 2018 18:35:30,192.168.5.152,192.168.5.152,TCP,534,TCP communication with nytimes.com
+251,Apr 26 2018 09:11:26,192.168.5.254,151.101.128.84,-,30,communication with apple.com
+252,Jul 04 2019 00:01:35,192.168.5.155,172.217.10.46,TCP,449,TCP communication with walmart.com
+253,May 03 2019 00:59:25,192.168.5.160,51.101.130.187,TCP,785,TCP communication with Google.com
+254,Feb 19 2019 02:42:05,192.168.5.157,192.168.1.1,-,307,communication with indeed.com
+255,Aug 08 2018 10:33:02,192.168.5.148,72.217.10.78,-,636,communication with etsy.com
+256,Aug 25 2018 15:05:06,192.168.5.188,172.217.10.238,TCP,1238,TCP communication with Google.com
+257,Feb 13 2019 16:00:24,192.168.5.152,g208.82.237.226,UDP,1348,UDP communication with walmart.com
+258,Feb 12 2019 15:04:22,192.168.5.254,05.251.242.103,-,1332,communication with google.com
+259,Sep 15 2018 20:45:28,192.168.5.193,05.251.242.103,TCP,0,TCP communication with 192.168.5.244
+260,Dec 08 2019 01:13:15,192.168.5.119,172.217.11.14,-,0,communication with cnn.com
+261,Feb 07 2018 02:41:05,192.168.5.240,151.101.1.164,-,617,communication with ebay.com
+262,Jun 26 2019 04:20:25,192.168.5.152,192.168.5.168,TCP,1355,TCP communication with instagram.com
+263,Jun 04 2018 05:17:23,192.168.5.159,er.com13.33.73.38,TCP,782,TCP communication with twitter.com
+264,May 28 2019 19:22:00,192.168.5.106,a.org208.80.154.224,UDP,1319,UDP communication with target.com
+265,Feb 27 2019 04:01:27,192.168.5.187,104.244.42.193,TCP,371,TCP communication with google.com
+266,Apr 18 2018 09:23:04,192.168.5.190,108.174.10.10,UDP,1191,UDP communication with target.com
+267,May 01 2019 04:55:10,192.168.5.144,151.101.1.164,-,1199,communication with google.com
+268,Jun 06 2019 12:43:10,192.168.5.105,31.13.66.4,UDP,244,UDP communication with espn.com
+269,Jun 10 2019 07:40:01,192.168.5.217,51.101.130.187,UDP,856,UDP communication with 192.168.5.244
+270,Mar 03 2019 18:50:29,192.168.5.226,34.194.103.209,UDP,658,UDP communication with dyna.wikimedia.org
+271,Mar 15 2019 06:53:05,192.168.5.244,192.168.5.244,TCP,45,TCP communication with nytimes.com
+272,Jan 12 2018 21:37:17,192.168.5.220,a.org208.80.154.224,TCP,451,TCP communication with walmart.com
+273,Jan 26 2019 14:45:16,192.168.5.215,52.6.240.48,TCP,1469,TCP communication with indeed.com
+274,Oct 26 2019 11:46:43,192.168.5.213,172.217.10.238,UDP,1396,UDP communication with netflix.com
+275,Nov 26 2019 12:59:52,192.168.5.134,4.16.66.82,TCP,1127,TCP communication with linkedin.com
+276,Apr 22 2019 14:25:28,192.168.5.214,34.194.103.209,UDP,182,UDP communication with homedepot.com
+277,Mar 11 2018 11:38:49,192.168.5.212,er.com13.33.73.38,TCP,0,TCP communication with twitter.com
+278,Feb 28 2018 03:15:55,192.168.5.194,35.201.95.83,TCP,297,TCP communication with google.com
+279,May 04 2018 11:12:45,192.168.5.189,51.101.130.187,TCP,1497,TCP communication with linkedin.com
+280,Apr 12 2018 18:45:15,192.168.5.207,192.168.5.177,UDP,74,UDP communication with microsoft.com
+281,Feb 02 2018 13:07:21,192.168.5.240,108.174.10.10,TCP,1281,TCP communication with amazon.com
+282,Apr 18 2019 16:20:03,192.168.5.214,52.6.240.48,TCP,919,TCP communication with play.google.com
+283,Aug 13 2018 20:24:50,192.168.5.253,33.73.70,UDP,1092,UDP communication with 192.168.5.120
+,Jul 02 2019 13:43:17,192.168.5.130,192.168.5.152,UDP,394,UDP communication with indeed.com
+285,Jul 01 2019 20:26:47,192.168.5.183,192.229.189.15,UDP,1399,UDP communication with play.google.com
+286,Oct 20 2018 05:03:01,192.168.5.162,192.168.5.168,TCP,0,TCP communication with imdb.com
+287,Aug 14 2019 07:20:27,192.168.5.175,52.6.240.48,UDP,11,UDP communication with twitter.com
+288,Oct 12 2019 01:29:20,192.168.5.205,.55.163.53,TCP,0,TCP communication with linkedin.com
+289,Jul 04 2018 14:43:51,192.168.5.235,161.170.232.170,TCP,1008,TCP communication with instagram.com
+290,Sep 28 2018 14:32:59,192.168.5.135,er.com13.33.73.38,TCP,878,TCP communication with 192.168.5.244
+291,Apr 23 2019 13:37:34,192.168.5.168,17.172.224.47,TCP,261,TCP communication with webmd.com
+292,Mar 24 2018 11:22:14,192.168.5.190,151.101.128.84,TCP,323,TCP communication with pinterest.com
+293,Aug 24 2018 04:44:26,192.168.5.218,52.6.240.48,TCP,482,TCP communication with 192.168.5.244
+294,Oct 21 2019 06:56:23,192.168.5.108,192.229.189.15,TCP,9,TCP communication with 192.168.5.197
+295,Mar 07 2018 19:39:31,192.168.5.160,35.201.95.83,UDP,280,UDP communication with 192.168.5.168
+296,Jun 02 2018 17:40:31,192.168.5.199,108.174.10.10,TCP,628,TCP communication with microsoft.com
+297,Jul 02 2019 19:39:11,192.168.5.207,192.168.5.120,TCP,188,TCP communication with reddit.com
+298,Dec 22 2018 23:13:51,192.168.5.197,17.172.224.47,TCP,264,TCP communication with 192.168.5.197
+299,Dec 01 2019 23:03:20,192.168.5.157,g208.82.237.226,TCP,1085,TCP communication with etsy.com
+300,Jan 07 2018 08:13:53,192.168.5.201,151.101.128.84,UDP,329,UDP communication with 192.168.5.244
+301,Apr 25 2019 11:03:04,192.168.5.249,.17.53.43,UDP,257,UDP communication with nytimes.com
+302,Jun 03 2019 03:50:42,192.168.5.133,31.13.66.4,TCP,878,TCP communication with pinterest.com
+303,Feb 25 2019 15:45:17,192.168.5.144,151.101.128.84,TCP,0,TCP communication with reddit.com
+304,Jan 18 2018 23:43:33,192.168.5.158,er.com13.33.73.38,TCP,725,TCP communication with forbes.com
+305,Mar 28 2019 05:25:23,192.168.5.205,161.170.232.170,TCP,1320,TCP communication with indeed.com
+306,Jul 23 2018 10:44:52,192.168.5.181,31.13.66.35,-,221,communication with play.google.com
+307,Oct 07 2018 12:54:23,192.168.5.153,108.174.10.10,TCP,470,TCP communication with 192.168.5.152
+308,Mar 15 2019 12:57:22,192.168.5.101,17.172.224.47,UDP,742,UDP communication with homedepot.com
+309,Sep 15 2018 15:42:24,192.168.5.122,108.174.10.10,TCP,871,TCP communication with twitter.com
+310,Aug 07 2019 18:49:09,192.168.5.140,135.195.175,-,621,communication with 192.168.5.152
+311,Nov 16 2019 22:00:24,192.168.5.120,52.6.240.48,TCP,887,TCP communication with instagram.com
+312,Dec 22 2018 13:31:28,192.168.5.114,13.77.161.179,TCP,53,TCP communication with imdb.com
+313,Apr 10 2018 08:09:09,192.168.5.112,192.168.5.197,TCP,0,TCP communication with webmd.com
+314,Jul 10 2018 02:57:42,192.168.5.202,161.170.232.170,-,1254,communication with espn.com
+315,Jul 15 2018 12:51:51,192.168.5.156,er.com13.33.73.38,-,1154,communication with 192.168.5.148
+316,Apr 18 2019 02:14:44,192.168.5.235,52.6.240.48,-,0,communication with 192.168.5.120
+317,Oct 23 2018 19:41:28,192.168.5.119,.55.163.53,TCP,178,TCP communication with play.google.com
+318,Jul 05 2018 04:23:35,192.168.5.213,51.101.130.187,TCP,1479,TCP communication with facebook.com
+319,Oct 27 2019 15:55:19,192.168.5.225,135.195.175,TCP,1290,TCP communication with pinterest.com
+320,Nov 06 2019 00:52:07,192.168.5.212,g208.82.237.226,-,8,communication with facebook.com
+321,Aug 12 2019 11:21:21,192.168.5.112,192.168.5.120,-,1343,communication with espn.com
+322,Jun 02 2018 11:04:50,192.168.5.121,192.168.5.168,-,1007,communication with twitter.com
+323,May 06 2019 06:12:39,192.168.5.250,151.101.128.84,TCP,718,TCP communication with amazon.com
+324,Feb 24 2018 00:53:57,192.168.5.180,a.org208.80.154.224,-,494,communication with Google.com
+325,Oct 10 2019 02:47:06,192.168.5.234,34.194.103.209,TCP,0,TCP communication with walmart.com
+326,Feb 06 2019 10:50:40,192.168.5.188,4.16.66.82,UDP,0,UDP communication with nytimes.com
+327,Jul 25 2019 06:38:50,192.168.5.125,34.194.103.209,TCP,580,TCP communication with google.com
+328,Sep 19 2019 12:28:18,192.168.5.212,er.com13.33.73.38,TCP,883,TCP communication with target.com
+329,Feb 12 2019 18:24:25,192.168.5.144,g208.82.237.226,TCP,568,TCP communication with microsoft.com
+330,Mar 24 2018 21:26:25,192.168.5.236,34.194.103.209,TCP,1036,TCP communication with imdb.com
+331,Jun 01 2019 02:56:37,192.168.5.228,er.com13.33.73.38,-,403,communication with forbes.com
+332,Oct 06 2018 17:27:59,192.168.5.118,94.228.167,TCP,1206,TCP communication with google.com
+333,May 18 2019 10:34:49,192.168.5.227,13.77.161.179,TCP,68,TCP communication with cnn.com
+334,Sep 20 2019 12:32:22,192.168.5.231,a.org208.80.154.224,TCP,0,TCP communication with 192.168.5.168
+335,Mar 04 2019 16:18:17,192.168.5.155,94.228.167,TCP,1065,TCP communication with pinterest.com
+336,Mar 01 2019 09:07:10,192.168.5.142,161.170.232.170,TCP,609,TCP communication with 192.168.5.148
+337,Oct 14 2019 08:42:40,192.168.5.214,34.194.103.209,TCP,824,TCP communication with 192.168.5.197
+338,Sep 21 2019 15:55:51,192.168.5.223,51.101.66.49,TCP,1217,TCP communication with netflix.com
+339,Apr 03 2019 03:32:41,192.168.5.225,192.229.189.15,TCP,413,TCP communication with quora.com
+340,May 01 2018 12:15:56,192.168.5.198,135.195.175,TCP,509,TCP communication with 192.168.5.244
+341,Nov 26 2018 21:12:03,192.168.5.158,.101.1.224,-,372,communication with webmd.com
+342,Feb 08 2018 12:18:02,192.168.5.224,31.13.66.35,TCP,0,TCP communication with linkedin.com
+343,Sep 13 2018 06:52:48,192.168.5.221,135.195.175,TCP,925,TCP communication with walmart.com
+344,Jul 09 2018 16:32:24,192.168.5.118,72.217.10.78,TCP,194,TCP communication with twitter.com
+345,Dec 07 2018 13:22:12,192.168.5.158,172.217.10.238,UDP,27,UDP communication with 192.168.5.148
+346,Feb 16 2018 18:08:40,192.168.5.206,72.217.10.78,TCP,0,TCP communication with nytimes.com
+,Nov 19 2018 08:09:33,192.168.5.243,72.217.10.78,TCP,977,TCP communication with nytimes.com
+348,Dec 22 2019 18:52:13,192.168.5.179,35.201.95.83,TCP,198,TCP communication with facebook.org
+349,Jan 08 2018 23:18:10,192.168.5.183,172.217.10.46,UDP,848,UDP communication with nytimes.com
+350,Mar 28 2019 15:08:42,192.168.5.235,35.201.95.83,TCP,1085,TCP communication with twitter.com
+351,Dec 26 2019 07:35:15,192.168.5.206,33.73.70,UDP,206,UDP communication with play.google.com
+352,Oct 26 2019 08:37:15,192.168.5.108,.55.163.53,TCP,475,TCP communication with ebay.com
+353,Oct 28 2018 20:28:37,192.168.5.144,17.172.224.47,UDP,1483,UDP communication with craigslist.org
+354,Aug 16 2018 10:17:37,192.168.5.226,51.101.65.140,TCP,220,TCP communication with cnn.com
+355,Oct 23 2018 22:36:45,192.168.5.250,a.org208.80.154.224,UDP,0,UDP communication with Google.com
+356,May 24 2019 07:00:58,192.168.5.169,17.172.224.47,TCP,198,TCP communication with facebook.org
+357,Aug 25 2019 07:15:21,192.168.5.175,05.251.242.103,TCP,84,TCP communication with netflix.com
+358,Jan 24 2019 08:20:33,192.168.5.132,a.org208.80.154.224,TCP,891,TCP communication with 192.168.5.197
+359,Jul 13 2019 02:17:19,192.168.5.117,31.13.66.35,TCP,0,TCP communication with 192.168.5.177
+360,Apr 16 2019 02:17:48,192.168.5.148,108.174.10.10,TCP,0,TCP communication with 192.168.5.177
+361,Sep 16 2019 03:30:47,192.168.5.162,31.13.66.4,UDP,182,UDP communication with walmart.com
+362,Oct 15 2019 08:20:55,192.168.5.192,135.195.175,TCP,447,TCP communication with microsoft.com
+363,Feb 15 2019 00:02:21,192.168.5.142,172.217.10.238,UDP,1350,UDP communication with 192.168.1.1
+364,Oct 20 2018 18:55:34,192.168.5.197,.55.163.53,UDP,697,UDP communication with twitter.com
+365,Oct 23 2019 20:42:15,192.168.5.153,172.217.10.46,UDP,1108,UDP communication with espn.com
+366,Sep 25 2019 00:37:58,192.168.5.182,31.13.66.35,TCP,1343,TCP communication with dyna.wikimedia.org
+367,Jul 02 2019 20:01:48,192.168.5.185,192.168.5.168,TCP,43,TCP communication with twitter.com
+368,Jan 14 2018 18:15:33,192.168.5.186,4.16.66.82,TCP,916,TCP communication with forbes.com
+369,May 17 2019 06:02:25,192.168.5.193,05.251.242.103,-,132,communication with homedepot.com
+370,Sep 25 2018 21:19:52,192.168.5.133,.55.163.53,-,516,communication with 192.168.5.120
+371,May 19 2019 02:19:34,192.168.5.147,192.168.5.197,TCP,990,TCP communication with microsoft.com
+372,May 24 2019 08:40:51,192.168.5.235,94.228.167,TCP,728,TCP communication with indeed.com
+373,May 21 2019 04:22:50,192.168.5.101,51.101.65.140,TCP,122,TCP communication with apple.com
+374,Nov 15 2019 11:29:24,192.168.5.137,172.217.11.14,UDP,488,UDP communication with twitter.com
+375,Aug 05 2019 15:07:05,192.168.5.212,172.217.10.46,TCP,1265,TCP communication with 192.168.1.1
+376,Feb 03 2019 06:34:01,192.168.5.172,72.217.10.78,TCP,1254,TCP communication with facebook.org
+377,Mar 02 2019 04:47:16,192.168.5.192,.55.163.53,TCP,913,TCP communication with google.com
+378,Jan 22 2019 21:21:27,192.168.5.134,172.217.10.46,TCP,1011,TCP communication with 192.168.5.197
+379,Aug 28 2019 14:38:11,192.168.5.165,72.217.10.78,TCP,499,TCP communication with dyna.wikimedia.org
+380,Jun 25 2018 05:52:33,192.168.5.108,05.251.242.103,UDP,1238,UDP communication with 192.168.5.244
+381,Oct 20 2019 10:21:19,192.168.5.214,151.101.128.84,TCP,1031,TCP communication with facebook.com
+382,Dec 25 2019 16:55:25,192.168.5.108,51.101.66.49,UDP,0,UDP communication with target.com
+383,Dec 25 2018 13:51:24,192.168.5.214,192.168.1.1,TCP,134,TCP communication with dyna.wikimedia.org
+,Feb 18 2018 01:08:12,192.168.5.236,a.org208.80.154.224,TCP,475,TCP communication with Google.com
+385,Feb 10 2019 16:06:37,192.168.5.200,17.172.224.47,TCP,0,TCP communication with cnn.com
+386,Dec 15 2019 06:06:39,192.168.5.167,51.101.66.49,TCP,1017,TCP communication with cnn.com
+387,Feb 03 2019 16:23:33,192.168.5.209,172.217.11.14,UDP,1038,UDP communication with 192.168.5.120
+388,Jul 15 2019 05:16:15,192.168.5.145,172.217.11.14,TCP,447,TCP communication with dyna.wikimedia.org
+389,Jul 20 2019 14:40:21,192.168.5.121,101.193.67,-,189,communication with ebay.com
+390,May 03 2018 14:52:36,192.168.5.249,172.217.10.238,-,206,communication with craigslist.org
+391,Jan 20 2018 04:25:54,192.168.5.152,172.217.10.46,TCP,1488,TCP communication with 192.168.5.168
+392,Feb 06 2018 15:41:40,192.168.5.249,52.6.240.48,UDP,786,UDP communication with 192.168.5.120
+393,Sep 07 2019 15:35:09,192.168.5.116,104.244.42.193,UDP,514,UDP communication with target.com
+394,Aug 09 2019 08:43:36,192.168.5.254,a.org208.80.154.224,-,1073,communication with webmd.com
+395,Feb 25 2019 12:40:50,192.168.5.160,192.229.189.15,TCP,1064,TCP communication with linkedin.com
+396,Oct 11 2019 21:17:32,192.168.5.170,34.194.103.209,TCP,999,TCP communication with twitter.com
+397,Sep 06 2019 18:26:29,192.168.5.146,192.168.5.168,-,577,communication with play.google.com
+398,Nov 17 2019 02:59:52,192.168.5.174,51.101.130.187,-,468,communication with espn.com
+399,Feb 19 2018 22:29:45,192.168.5.125,05.251.242.103,TCP,742,TCP communication with facebook.org
+400,May 25 2018 15:58:36,192.168.5.141,192.168.5.197,UDP,784,UDP communication with netflix.com
+401,Jan 03 2019 17:11:31,192.168.5.131,151.101.128.84,TCP,851,TCP communication with microsoft.com
+402,Jul 27 2019 11:41:47,192.168.5.186,172.217.10.46,-,0,communication with indeed.com
+403,Aug 28 2019 06:05:36,192.168.5.117,101.193.67,TCP,0,TCP communication with forbes.com
+404,Oct 12 2019 07:14:26,192.168.5.154,.55.163.53,UDP,1103,UDP communication with indeed.com
+405,Oct 04 2018 01:35:58,192.168.5.185,104.244.42.193,TCP,1313,TCP communication with cnn.com
+406,Aug 24 2019 21:45:39,192.168.5.168,51.101.65.140,TCP,561,TCP communication with play.google.com
+407,Apr 19 2018 22:10:07,192.168.5.240,151.101.128.84,TCP,13,TCP communication with ebay.com
+408,Aug 11 2018 22:53:15,192.168.5.158,31.13.66.4,TCP,927,TCP communication with 192.168.5.244
+409,Apr 13 2018 16:25:10,192.168.5.119,151.101.1.164,-,1273,communication with youtube.com
+410,Apr 17 2018 09:06:02,192.168.5.210,.55.163.53,TCP,642,TCP communication with pinterest.com
+411,Jul 18 2019 02:46:32,192.168.5.231,192.168.5.177,TCP,277,TCP communication with ebay.com
+412,Feb 02 2019 04:00:53,192.168.5.158,192.168.5.244,TCP,1243,TCP communication with microsoft.com
+413,Dec 23 2019 10:51:09,192.168.5.173,151.101.1.164,UDP,1349,UDP communication with instagram.com
+414,May 05 2019 16:55:57,192.168.5.235,52.6.240.48,TCP,709,TCP communication with netflix.com
+415,Sep 06 2019 11:29:41,192.168.5.146,172.217.10.238,TCP,448,TCP communication with Google.com
+416,Nov 11 2019 14:29:04,192.168.5.188,51.101.65.140,-,284,communication with instagram.com
+417,Sep 06 2019 00:44:50,192.168.5.213,33.73.70,TCP,413,TCP communication with 192.168.5.177
+418,Aug 02 2019 00:29:55,192.168.5.101,151.101.1.164,TCP,1251,TCP communication with instagram.com
+419,Aug 16 2019 13:30:44,192.168.5.184,17.172.224.47,-,648,communication with espn.com
+420,Oct 20 2019 05:08:38,192.168.5.146,135.195.175,UDP,355,UDP communication with 192.168.5.120
+421,May 15 2018 14:59:08,192.168.5.139,.101.1.224,UDP,605,UDP communication with play.google.com
+422,Sep 23 2019 13:54:01,192.168.5.154,31.13.66.4,TCP,979,TCP communication with 192.168.5.148
+423,May 11 2019 05:57:57,192.168.5.217,192.168.5.148,-,0,communication with youtube.com
+424,Apr 10 2018 07:06:10,192.168.5.183,172.217.10.238,UDP,731,UDP communication with 192.168.5.244
+425,Mar 06 2018 14:19:09,192.168.5.252,51.101.65.140,TCP,604,TCP communication with quora.com
+426,Aug 27 2019 09:48:15,192.168.5.180,108.174.10.10,TCP,354,TCP communication with merriam-webster.com
+427,Jul 05 2019 16:18:47,192.168.5.232,172.217.11.14,TCP,770,TCP communication with forbes.com
+428,Jun 07 2018 07:03:52,192.168.5.122,192.168.5.148,TCP,401,TCP communication with amazon.com
+429,Sep 28 2018 00:21:19,192.168.5.166,51.101.66.49,TCP,0,TCP communication with reddit.com
+430,Oct 04 2019 12:35:18,192.168.5.140,4.16.66.82,TCP,1339,TCP communication with reddit.com
+431,Apr 13 2018 01:50:50,192.168.5.249,94.228.167,TCP,863,TCP communication with play.google.com
+,May 21 2019 17:18:01,192.168.5.136,35.201.95.83,TCP,742,TCP communication with nytimes.com
+433,Aug 09 2018 02:54:43,192.168.5.236,g208.82.237.226,TCP,1415,TCP communication with Google.com
+434,Aug 18 2019 22:22:31,192.168.5.248,31.13.66.35,TCP,1474,TCP communication with facebook.com
+435,May 17 2019 21:03:51,192.168.5.144,31.13.66.4,UDP,90,UDP communication with netflix.com
+436,Nov 02 2019 14:59:17,192.168.5.164,135.195.175,TCP,1257,TCP communication with 192.168.5.244
+437,May 18 2019 13:23:41,192.168.5.114,34.194.103.209,-,690,communication with target.com
+438,Dec 21 2019 13:56:15,192.168.5.213,151.101.128.84,-,178,communication with 192.168.5.120
+439,Nov 04 2018 10:22:20,192.168.5.243,35.201.95.83,TCP,1097,TCP communication with quora.com
+440,Sep 15 2018 03:17:51,192.168.5.170,51.101.65.140,TCP,372,TCP communication with nytimes.com
+,Aug 22 2018 17:05:00,192.168.5.180,151.101.128.84,TCP,1407,TCP communication with espn.com
+442,Jun 28 2018 22:17:18,192.168.5.241,192.168.5.168,TCP,1263,TCP communication with cnn.com
+443,Feb 22 2019 08:03:16,192.168.5.135,33.73.70,-,1380,communication with facebook.org
+444,Dec 24 2018 05:47:58,192.168.5.160,31.13.66.35,TCP,1227,TCP communication with quora.com
+445,Nov 17 2019 10:31:40,192.168.5.243,151.101.128.84,TCP,70,TCP communication with 192.168.5.168
+446,Jul 15 2018 12:52:43,192.168.5.118,135.195.175,TCP,978,TCP communication with quora.com
+447,Apr 04 2019 09:44:10,192.168.5.206,a.org208.80.154.224,TCP,1251,TCP communication with linkedin.com
+448,Mar 05 2018 19:22:28,192.168.5.181,34.194.103.209,TCP,1264,TCP communication with microsoft.com
+449,Dec 17 2018 12:57:42,192.168.5.153,151.101.1.164,TCP,488,TCP communication with 192.168.5.120
+450,Sep 24 2019 13:25:41,192.168.5.233,94.228.167,TCP,716,TCP communication with apple.com
+451,Jun 03 2018 06:11:47,192.168.5.148,.101.1.224,TCP,1301,TCP communication with play.google.com
+452,Mar 27 2018 09:21:30,192.168.5.178,135.195.175,UDP,104,UDP communication with Google.com
+453,Sep 18 2019 10:42:11,192.168.5.193,31.13.66.35,-,1166,communication with linkedin.com
+454,Oct 18 2019 18:57:16,192.168.5.190,151.101.128.84,UDP,303,UDP communication with walmart.com
+455,Dec 28 2019 02:51:23,192.168.5.195,4.16.66.82,-,1300,communication with play.google.com
+,May 10 2018 20:38:22,192.168.5.211,101.193.67,TCP,645,TCP communication with amazon.com
+457,Feb 25 2018 03:44:48,192.168.5.168,151.101.128.84,TCP,257,TCP communication with nytimes.com
+458,Nov 12 2018 19:22:49,192.168.5.108,192.168.5.152,TCP,1113,TCP communication with pinterest.com
+459,Mar 23 2019 05:22:00,192.168.5.108,151.101.1.164,UDP,1293,UDP communication with 192.168.5.244
+460,Dec 13 2018 22:30:21,192.168.5.162,192.168.5.168,-,871,communication with 192.168.5.177
+461,Oct 14 2019 08:55:13,192.168.5.178,192.168.5.168,TCP,79,TCP communication with tripadvisor.com
+462,Mar 24 2019 08:50:29,192.168.5.126,161.170.232.170,-,1136,communication with 192.168.5.197
+463,Feb 14 2019 13:59:27,192.168.5.229,192.168.5.152,TCP,1204,TCP communication with tripadvisor.com
+464,Jul 16 2019 01:16:35,192.168.5.110,192.168.5.177,TCP,565,TCP communication with apple.com
+465,Jan 13 2018 19:27:04,192.168.5.110,101.193.67,TCP,917,TCP communication with microsoft.com
+466,Aug 22 2019 17:12:47,192.168.5.125,51.101.130.187,-,927,communication with merriam-webster.com
+467,May 19 2018 23:29:02,192.168.5.236,108.174.10.10,UDP,652,UDP communication with espn.com
+468,Oct 06 2019 14:51:30,192.168.5.112,172.217.11.14,TCP,1217,TCP communication with cnn.com
+469,Jan 09 2019 13:24:39,192.168.5.142,72.217.10.78,UDP,1106,UDP communication with 192.168.5.120
+470,May 14 2018 09:11:20,192.168.5.133,35.201.95.83,TCP,1076,TCP communication with target.com
+471,Aug 19 2018 23:59:08,192.168.5.197,192.168.1.1,TCP,179,TCP communication with linkedin.com
+472,Jan 14 2019 00:00:51,192.168.5.224,192.168.5.177,UDP,1463,UDP communication with twitter.com
+473,Feb 15 2019 19:33:50,192.168.5.105,192.168.1.1,TCP,250,TCP communication with tripadvisor.com
+474,Mar 16 2019 18:56:55,192.168.5.184,72.217.10.78,-,585,communication with Google.com
+475,Dec 04 2019 22:59:26,192.168.5.137,er.com13.33.73.38,TCP,0,TCP communication with pinterest.com
+476,Jan 21 2018 12:01:27,192.168.5.108,172.217.10.238,TCP,1367,TCP communication with youtube.com
+477,Dec 14 2018 11:59:29,192.168.5.228,35.201.95.83,TCP,1468,TCP communication with linkedin.com
+478,Feb 11 2018 23:24:29,192.168.5.167,192.168.5.168,TCP,1404,TCP communication with microsoft.com
+479,May 19 2019 06:02:28,192.168.5.106,13.77.161.179,TCP,1313,TCP communication with ebay.com
+480,May 23 2018 05:20:53,192.168.5.208,4.16.66.82,TCP,837,TCP communication with walmart.com
+481,Oct 27 2018 19:30:20,192.168.5.200,.17.53.43,TCP,79,TCP communication with indeed.com
+482,Apr 13 2018 13:40:49,192.168.5.222,72.217.10.78,TCP,480,TCP communication with tripadvisor.com
+483,Aug 25 2019 21:21:13,192.168.5.234,135.195.175,UDP,1423,UDP communication with facebook.com
+484,Apr 24 2018 09:36:39,192.168.5.192,51.101.66.49,TCP,804,TCP communication with play.google.com
+485,Mar 17 2018 14:03:59,192.168.5.200,31.13.66.4,TCP,574,TCP communication with 192.168.5.148
+486,Oct 28 2019 16:11:44,192.168.5.177,51.101.66.49,TCP,1149,TCP communication with webmd.com
+487,Oct 25 2018 10:04:33,192.168.5.120,192.168.5.168,TCP,1142,TCP communication with twitter.com
+488,Jun 20 2019 16:30:18,192.168.5.177,94.228.167,TCP,93,TCP communication with webmd.com
+489,Feb 01 2018 18:44:06,192.168.5.162,151.101.128.84,TCP,366,TCP communication with apple.com
+490,Feb 28 2018 01:13:55,192.168.5.228,104.244.42.193,TCP,0,TCP communication with 192.168.5.152
+491,Jan 21 2019 04:20:43,192.168.5.176,51.101.130.187,TCP,1497,TCP communication with homedepot.com
+492,Mar 18 2018 04:35:25,192.168.5.123,108.174.10.10,TCP,0,TCP communication with google.com
+493,Feb 06 2019 18:38:42,192.168.5.121,31.13.66.35,TCP,251,TCP communication with amazon.com
+494,Apr 17 2018 10:13:16,192.168.5.141,172.217.10.238,TCP,907,TCP communication with pinterest.com
+495,Mar 11 2018 03:54:23,192.168.5.210,.17.53.43,UDP,1019,UDP communication with amazon.com
+496,Jun 07 2019 17:27:21,192.168.5.183,31.13.66.4,-,697,communication with tripadvisor.com
+497,Feb 20 2019 23:05:38,192.168.5.178,31.13.66.4,TCP,1394,TCP communication with 192.168.5.177
+498,Apr 12 2019 14:01:06,192.168.5.152,161.170.232.170,-,959,communication with quora.com
+499,Aug 14 2019 18:04:58,192.168.5.195,51.101.65.140,TCP,712,TCP communication with 192.168.1.1
+500,Feb 28 2018 03:50:47,192.168.5.176,192.168.5.120,-,0,communication with imdb.com
